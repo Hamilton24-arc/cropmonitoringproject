@@ -34,18 +34,21 @@ npm run dev
 
 Open: http://localhost:3000 in your browser.
 
-Project Structure
+## Project Structure
 src/
  ├── components/
  ├── pages/
  ├── styles/
  └── layouts/
  
-Future Improvements include:
+## Future Improvements include:
 
-AI-powered disease detection
-Weather prediction integration
-IoT sensor connectivity
-Mobile app support
+- AI-powered disease detection
+- Weather prediction integration
+- IoT sensor connectivity
+- Mobile app support
 
-Author: Hamilton JR
+
+## Author: 
+
+Hamilton JR
